@@ -1,0 +1,15 @@
+﻿  Calculate.cpp
+  Draw.cpp
+Draw.cpp(209): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(423): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(637): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(855): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(1077): warning C4101: “i”: 未引用的局部变量
+  FrameEvent.cpp
+  正在生成代码
+  5 of 1663 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  GNSS_mod.vcxproj -> C:\Users\DELL\Desktop\软件课设\GNSS\GNSS_mod\Release\GNSS_mod.exe
+  GNSS_mod.vcxproj -> C:\Users\DELL\Desktop\软件课设\GNSS\GNSS_mod\Release\GNSS_mod.pdb (Full PDB)

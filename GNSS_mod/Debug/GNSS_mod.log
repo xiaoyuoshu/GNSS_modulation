@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9007: “/Gm”需要“/Zi 或 /ZI”；选项被忽略
+  Draw.cpp
+Draw.cpp(209): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(423): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(637): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(855): warning C4101: “i”: 未引用的局部变量
+Draw.cpp(1077): warning C4101: “i”: 未引用的局部变量
+  GNSS_mod.vcxproj -> C:\Users\DELL\Desktop\软件课设\GNSS\GNSS_mod\Debug\GNSS_mod.exe
+  GNSS_mod.vcxproj -> C:\Users\DELL\Desktop\软件课设\GNSS\GNSS_mod\Debug\GNSS_mod.pdb (Partial PDB)
